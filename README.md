@@ -1,16 +1,12 @@
-# layout_project
+# Título (layout_project)
 
-A new Flutter project.
+> Projeto com o objetivo de construir o código de uma aplicação não-funcional para exibir um layout fictício e aprimorar meus conhecimentos sobre construção e organização de layouts;
 
-## Getting Started
+## Funcionalidades do aplicativo
 
-This project is a starting point for a Flutter application.
+- Este aplicativo não possue funcionalidades interativas e tem por objetivo apenas o estudo de construção e organização de layouts em Dart;
+- Exibição de textos, imagens e ícones na tela através da construção de um código que permite organizar os elementos da aplicação;
 
-A few resources to get you started if this is your first Flutter project:
+## Aprendizado
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> O projeto tem como objetivo desafiar e testar meus conhecimentos básicos de lógica e programação tendo como foco a construção e organização de layouts, com o intuito de aprimorar meus conhecimentos base de Dart e Flutter e fortalecer meus fundamentos básicos de programação;
