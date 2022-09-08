@@ -1,4 +1,4 @@
-# Estudo de Layouts (layout_project)
+# Projeto de layout fictício (layout_project)
 
 > Projeto com o objetivo de construir o código de uma aplicação não-funcional para exibir um layout fictício e aprimorar meus conhecimentos sobre construção e organização de layouts;
 
